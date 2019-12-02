@@ -1,0 +1,10 @@
+C:\Users\T-Developer\source\repos\TicTacToeWF\TicTacToeWF\bin\Debug\TicTacToeWF.exe.config
+C:\Users\T-Developer\source\repos\TicTacToeWF\TicTacToeWF\bin\Debug\TicTacToeWF.exe
+C:\Users\T-Developer\source\repos\TicTacToeWF\TicTacToeWF\bin\Debug\TicTacToeWF.pdb
+C:\Users\T-Developer\source\repos\TicTacToeWF\TicTacToeWF\obj\Debug\TicTacToeWF.csprojAssemblyReference.cache
+C:\Users\T-Developer\source\repos\TicTacToeWF\TicTacToeWF\obj\Debug\TicTacToeWF.TicTacToe.resources
+C:\Users\T-Developer\source\repos\TicTacToeWF\TicTacToeWF\obj\Debug\TicTacToeWF.Properties.Resources.resources
+C:\Users\T-Developer\source\repos\TicTacToeWF\TicTacToeWF\obj\Debug\TicTacToeWF.csproj.GenerateResource.cache
+C:\Users\T-Developer\source\repos\TicTacToeWF\TicTacToeWF\obj\Debug\TicTacToeWF.csproj.CoreCompileInputs.cache
+C:\Users\T-Developer\source\repos\TicTacToeWF\TicTacToeWF\obj\Debug\TicTacToeWF.exe
+C:\Users\T-Developer\source\repos\TicTacToeWF\TicTacToeWF\obj\Debug\TicTacToeWF.pdb
